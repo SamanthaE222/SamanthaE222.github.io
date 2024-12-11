@@ -1,7 +1,11 @@
 
 # Samantha Eamigh's Portfolio
 
-I am a Computer Science major at CSUF and I plan on graduating in 2028
+This is my home page! My name is Samantha Eamigh and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
+
+## Computer Science Projects
+
+My GitHub page is http://github.com/SamanthaE222
 
 ## Favorite CPSC 120L Labs
 
