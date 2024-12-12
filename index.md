@@ -5,7 +5,7 @@ This is my home page! My name is Samantha Eamigh and I am a student at [Cal Stat
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/SamanthaE222/
+My GitHub page is http://github.com/SamanthaE222
 
 ## Favorite CPSC 120L Labs
 
